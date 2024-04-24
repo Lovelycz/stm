@@ -56,7 +56,7 @@ homepage:
 ## 技能专长
 
 - 编程语言：根据项目要求使用C语言进行开发，编写STM32主控板控制。
-- 开发工具：Arduino、Visual Studio Code、Keil5、Altium Designer、AutoCAD、Python、Linux系统、shell脚本。
+- 开发工具：Arduino、Visual Studio Code、Keil5、Altium Designer、AutoCAD。
 - 语言能力：具有良好的中英语阅读能力与文档编写能力。
 - 其他能力：了解嵌入式工作的基本流程，有标准化意识，有主动发现与解决问题的能力。
 
